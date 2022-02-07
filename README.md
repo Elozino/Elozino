@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Frontend Technologies
-- 🌱 I’m currently learning JavaScript, React.js
+- 🌱 My tools are JavaScript, React.js, React Native
 - 🤔 I’m looking for help with everything JavaScript
 
 
