@@ -4,7 +4,7 @@
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on Frontend Technologies
 - 🌱 My tools are JavaScript, React.js, React Native
-- 🤔 Just give me a platform and watch me do my magic
+- 🤔 Give me a platform and watch me do my magic
 
 
 
