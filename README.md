@@ -6,6 +6,8 @@
 - 🌱 My tools are JavaScript, React.js, React Native
 - 🤔 Give me a platform and watch me do my magic
 
+[![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
