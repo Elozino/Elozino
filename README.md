@@ -12,7 +12,7 @@
 
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
 ![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
-![https://cdn-icons-png.flaticon.com/512/919/919831.png](https://cdn-icons-png.flaticon.com/24/919/919831.png)
+![https://cdn-icons-png.flaticon.com/24/5968/5968358.png](https://cdn-icons-png.flaticon.com/24/5968/5968358.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968381.png](https://cdn-icons-png.flaticon.com/24/5968/5968381.png)
 ![https://cdn-icons-png.flaticon.com/24/1260/1260667.png](https://cdn-icons-png.flaticon.com/24/1260/1260667.png)
