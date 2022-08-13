@@ -30,6 +30,8 @@
 [![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![snake gif](https://raw.githubusercontent.com/andrewbaisden/andrewbaisden/output/github-contribution-grid-snake.svg)
+
 
 <!--
 
