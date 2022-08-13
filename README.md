@@ -6,6 +6,8 @@
 - 🌱 My tools are JavaScript, React.js, React Native
 - 🤔 Give me a platform and watch me do my magic
 
+
+---
 ## 💻 TECH STACK
 
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
@@ -25,10 +27,11 @@
 <!-- ![https://cdn-icons-png.flaticon.com/24/5968/5968520.png](https://cdn-icons-png.flaticon.com/24/5968/5968520.png) -->
 <!-- ![https://cdn-icons-png.flaticon.com/24/5968/5968559.png](https://cdn-icons-png.flaticon.com/24/5968/5968559.png) -->
 
-
+---
 
 [![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
 ![snake gif](https://raw.githubusercontent.com/andrewbaisden/andrewbaisden/output/github-contribution-grid-snake.svg)
 
