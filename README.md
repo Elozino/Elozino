@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 #### I am Elozino but for simplicity call me Zino
 
 - 😄 Pronouns: He/Him
@@ -6,17 +7,21 @@
 - 🌱 My tools are JavaScript, React.js, React Native
 - 🤔 Give me a platform and watch me do my magic
 
-
 ---
+
 ## 💻 TECH STACK
 
 ![https://cdn-icons-png.flaticon.com/24/1051/1051277.png](https://cdn-icons-png.flaticon.com/24/1051/1051277.png)
 ![https://cdn-icons-png.flaticon.com/24/732/732190.png](https://cdn-icons-png.flaticon.com/24/732/732190.png)
+![https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png")
 ![https://cdn-icons-png.flaticon.com/24/5968/5968292.png](https://cdn-icons-png.flaticon.com/24/5968/5968292.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968381.png](https://cdn-icons-png.flaticon.com/24/5968/5968381.png)
 ![https://cdn-icons-png.flaticon.com/24/1260/1260667.png](https://cdn-icons-png.flaticon.com/24/1260/1260667.png)
 ![https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png](https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
+<img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 ![https://cdn-icons-png.flaticon.com/24/5968/5968705.png](https://cdn-icons-png.flaticon.com/24/5968/5968705.png)
 
 ---
@@ -30,7 +35,6 @@
 ---
 
 ![snake gif](https://raw.githubusercontent.com/andrewbaisden/andrewbaisden/output/github-contribution-grid-snake.svg)
-
 
 <!--
 
