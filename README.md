@@ -21,6 +21,10 @@
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
+
+---
+
 [![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
