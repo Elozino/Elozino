@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 #### I am Elozino but for simplicity call me Zino
 
 - 😄 Pronouns: He/Him
@@ -16,16 +16,8 @@
 ![https://cdn-icons-png.flaticon.com/24/5968/5968381.png](https://cdn-icons-png.flaticon.com/24/5968/5968381.png)
 ![https://cdn-icons-png.flaticon.com/24/1260/1260667.png](https://cdn-icons-png.flaticon.com/24/1260/1260667.png)
 ![https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png](https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png)
-<!-- ![https://cdn-icons-png.flaticon.com/24/2306/2306019.png](https://cdn-icons-png.flaticon.com/24/2306/2306019.png) -->
-<!-- ![https://cdn-icons-png.flaticon.com/24/5968/5968350.png](https://cdn-icons-png.flaticon.com/24/5968/5968350.png)
-![https://cdn-icons-png.flaticon.com/24/6132/6132222.png](https://cdn-icons-png.flaticon.com/24/6132/6132222.png) -->
 ![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
-<!-- ![https://cdn-icons-png.flaticon.com/24/1265/1265531.png](https://cdn-icons-png.flaticon.com/24/1265/1265531.png) -->
-<!-- ![https://img.icons8.com/color/24/mongodb.png](https://img.icons8.com/color/24/mongodb.png) -->
-<!-- ![https://cdn-icons-png.flaticon.com/24/5969/5969059.png](https://cdn-icons-png.flaticon.com/24/5969/5969059.png) -->
 ![https://cdn-icons-png.flaticon.com/24/5968/5968705.png](https://cdn-icons-png.flaticon.com/24/5968/5968705.png)
-<!-- ![https://cdn-icons-png.flaticon.com/24/5968/5968520.png](https://cdn-icons-png.flaticon.com/24/5968/5968520.png) -->
-<!-- ![https://cdn-icons-png.flaticon.com/24/5968/5968559.png](https://cdn-icons-png.flaticon.com/24/5968/5968559.png) -->
 
 ---
 
