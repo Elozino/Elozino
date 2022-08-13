@@ -21,7 +21,7 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Te-Stack&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Elozino&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Te-Stack" /></p>
 
 ---
 
