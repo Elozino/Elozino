@@ -1,9 +1,10 @@
 ## Hi there 👋
-#### I am Elozino but for simplicity call me Zino
+#### I am Elozino. But for simplicity, call me Zino. 
 
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently working on Frontend Technologies
-- 🌱 My tools are JavaScript, React.js, React Native
+- 🔭 I’m currently learning Golang, Python
+- 🔭 I’m currently working on Fullstack Technologies
+- 🌱 My tools are JavaScript, React.js, React Native, NodeJs
 - 🤔 Give me a platform and watch me do my magic
 
 
