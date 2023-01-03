@@ -3,7 +3,7 @@
 
 - 😄 Pronouns: He/Him
 - 🔭 Learning Golang, Python
-- 🔭 I’m currently working on Fullstack Technologies
+- 🔭 Working on Fullstack Technologies
 - 🌱 My tools are JavaScript, React.js, React Native, NodeJs
 - 🤔 Give me a platform and watch me do my magic
 
