@@ -2,7 +2,7 @@
 #### I am Elozino. But for simplicity, call me Zino. 
 
 - 😄 Pronouns: He/Him
-- 🔭 Learning Golang, Python
+- 🔭 Learning whatever is needed to make a product ship
 - 🔭 Working on Fullstack Technologies
 - 🌱 My tools are JavaScript, React.js, React Native, NodeJs
 - 🤔 Give me a platform and watch me do my magic
