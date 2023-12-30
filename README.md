@@ -7,6 +7,7 @@
 - 🌱 My tools are JavaScript, React.js, React Native, NodeJs
 - 🤔 Give me a platform and watch me do my magic
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elozino&label=Profile%20views&color=0e75b6&style=flat" alt="yczar" /> </p>
 
 ---
 ## 💻 TECH STACK
