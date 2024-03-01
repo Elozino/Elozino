@@ -1,7 +1,6 @@
 ## Hi there 👋
-#### I am Elozino. But for simplicity, call me Zino. 
+#### I am Elozino. 
 
-- 😄 Pronouns: He/Him
 - 🔭 Learning whatever is needed to make a product ship
 - 🔭 Working on Fullstack Technologies
 - 🌱 My tools are JavaScript, React.js, React Native, NodeJs
