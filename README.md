@@ -1,11 +1,5 @@
 ## Hi there 👋
 #### I am Elozino. 
-
-- 🔭 Learning whatever is needed to make a product ship
-- 🔭 Working on Fullstack Technologies
-- 🌱 My tools are JavaScript, React.js, React Native, NodeJs
-- 🤔 Give me a platform and watch me do my magic
-
 ---
 ## 💻 TECH STACK
 
