@@ -19,7 +19,7 @@
 
 ---
 
-[![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&theme=tokyonight)]
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&locale=en&theme=tokyonight" alt="elozino" /></p>
 
 ---
 
