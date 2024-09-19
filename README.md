@@ -15,12 +15,15 @@
 
 ---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elozino&show_icons=true&locale=en&layout=compact" alt="drsimplegraffiti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elozino&show_icons=true&locale=en&layout=compact" alt="elozino" /></p>
 
 ---
 
-[![Elozino's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=elozino)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&locale=en" alt="elozino" /></p>
+
+---
+
+![Elozino's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=elozino)
 
 ---
 
