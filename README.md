@@ -19,7 +19,7 @@
 
 ---
 
-[![Elozino's GitHub stats](https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Elozino's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=elozino)
 
 ---
 
