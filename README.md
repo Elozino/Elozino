@@ -23,6 +23,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+
+---
+
 ![snake gif](https://raw.githubusercontent.com/andrewbaisden/andrewbaisden/output/github-contribution-grid-snake.svg)
 
 
