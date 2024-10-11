@@ -12,6 +12,7 @@
 ![https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png](https://pics.freeicons.io/uploads/icons/png/9818154791551942292-24.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968322.png](https://cdn-icons-png.flaticon.com/24/5968/5968322.png)
 ![https://cdn-icons-png.flaticon.com/24/5968/5968705.png](https://cdn-icons-png.flaticon.com/24/5968/5968705.png)
+![https://pics.freeicons.io/uploads/icons/png/19341587051579517856-512.png](https://pics.freeicons.io/uploads/icons/png/19341587051579517856-512.png)
 
 ---
 
