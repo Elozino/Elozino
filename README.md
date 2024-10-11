@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zfinix&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elozino&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
 
 ---
 
