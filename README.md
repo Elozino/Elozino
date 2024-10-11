@@ -21,11 +21,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elozino&show_icons=true&locale=en&theme=tokyonight" alt="elozino" /></p>
 
+<!--
 ---
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=elozino&theme=onedark&margin-w=15&margin-h=15)](https://www.buymeacoffee.com/pantani)
+
+-->
 
 ---
 
